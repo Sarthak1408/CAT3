@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item android:id="@+id/courses"
+        android:icon="@drawable/courses"
+        tools:ignore="MenuTitle" />
+
+    <item android:id="@+id/attendance"
+        android:icon="@drawable/attendance"
+        tools:ignore="MenuTitle" />
+
+    <item android:id="@+id/feedback"
+        android:icon="@drawable/feedback"
+        tools:ignore="MenuTitle" />
+
+    <item android:id="@+id/setting"
+        android:icon="@drawable/setting"
+        tools:ignore="MenuTitle" />
+
+
+
+</menu>
